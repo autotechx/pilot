@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Navdeep Automation Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TC02_LoginPage(failed)">
+    <classes>
+      <class name="testCases.TC02_LoginPage">
+        <methods>
+          <include name="validateTestCase2"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="generateReport"/>
+          <include name="tearDownMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="setupReport"/>
+          <include name="startExtentReports"/>
+        </methods>
+      </class> <!-- testCases.TC02_LoginPage -->
+    </classes>
+  </test> <!-- TC02_LoginPage(failed) -->
+  <test thread-count="5" name="TC03_HomePage(failed)">
+    <classes>
+      <class name="testCases.TC03_HomePage">
+        <methods>
+          <include name="validateTestCase3"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="generateReport"/>
+          <include name="tearDownMethod"/>
+          <include name="beforeTestMethod"/>
+          <include name="setupReport"/>
+          <include name="startExtentReports"/>
+        </methods>
+      </class> <!-- testCases.TC03_HomePage -->
+    </classes>
+  </test> <!-- TC03_HomePage(failed) -->
+</suite> <!-- Failed suite [Navdeep Automation Test Suite] -->

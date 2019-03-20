@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Navdeep Automation Test Suite">
+
+	<test name="TC01_WelcomePage">
+		<classes>
+			<class name="testCases.TC01_WelcomePage"></class>
+		</classes>
+	</test>
+
+	<test name="TC02_LoginPage">
+		<classes>
+			<class name="testCases.TC02_LoginPage"></class>
+		</classes>
+	</test>
+
+	<test name="TC03_HomePage">
+		<classes>
+			<class name="testCases.TC03_HomePage"></class>
+		</classes>
+	</test>
+
+</suite>

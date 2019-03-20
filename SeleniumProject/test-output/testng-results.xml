@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Setting up reports and Test is getting ready]]>
+    </line>
+    <line>
+      <![CDATA[Settings Done and Test Started............]]>
+    </line>
+    <line>
+      <![CDATA[Trying to start browser and getting application ready]]>
+    </line>
+    <line>
+      <![CDATA[Browser and Application is up and running]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test is Completed]]>
+    </line>
+    <line>
+      <![CDATA[Trying to close the current Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed.......................]]>
+    </line>
+    <line>
+      <![CDATA[Trying to start browser and getting application ready]]>
+    </line>
+    <line>
+      <![CDATA[Browser and Application is up and running]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test is Completed]]>
+    </line>
+    <line>
+      <![CDATA[Trying to close the current Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed.......................]]>
+    </line>
+    <line>
+      <![CDATA[Trying to start browser and getting application ready]]>
+    </line>
+    <line>
+      <![CDATA[Browser and Application is up and running]]>
+    </line>
+    <line>
+      <![CDATA[Test is about to end]]>
+    </line>
+    <line>
+      <![CDATA[Test is Completed]]>
+    </line>
+    <line>
+      <![CDATA[Trying to close the current Open browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed.......................]]>
+    </line>
+    <line>
+      <![CDATA[Preparing Report]]>
+    </line>
+    <line>
+      <![CDATA[Report is generated......................]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-03-19T03:56:33Z" name="Navdeep Automation Test Suite" finished-at="2019-03-19T03:57:11Z" duration-ms="37983">
+    <groups>
+    </groups>
+    <test started-at="2019-03-19T03:56:33Z" name="TC01_WelcomePage" finished-at="2019-03-19T03:56:46Z" duration-ms="13171">
+      <class name="testCases.TC01_WelcomePage">
+        <test-method is-config="true" signature="startExtentReports(org.testng.ITestContext)[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:33Z" name="startExtentReports" finished-at="2019-03-19T03:56:33Z" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@ef1695a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtentReports -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:33Z" name="setup" finished-at="2019-03-19T03:56:43Z" duration-ms="10438" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to start browser and getting application ready]]>
+            </line>
+            <line>
+              <![CDATA[Browser and Application is up and running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:43Z" name="beforeTestMethod" finished-at="2019-03-19T03:56:43Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TC01_WelcomePage.validateTestCase1() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="validateTestCase1()[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:43Z" name="validateTestCase1" finished-at="2019-03-19T03:56:43Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTestCase1 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:43Z" name="tearDownMethod" finished-at="2019-03-19T03:56:44Z" duration-ms="307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateTestCase1 on [TC01_WelcomePage passed=0 failed=0 skipped=0] status=SUCCESS method=TC01_WelcomePage.validateTestCase1()[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test is Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:[TC01_WelcomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:44Z" name="tearDown" finished-at="2019-03-19T03:56:46Z" duration-ms="2337" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to close the current Open browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed.......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC01_WelcomePage -->
+    </test> <!-- TC01_WelcomePage -->
+    <test started-at="2019-03-19T03:56:46Z" name="TC02_LoginPage" finished-at="2019-03-19T03:56:58Z" duration-ms="11879">
+      <class name="testCases.TC02_LoginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:46Z" name="setup" finished-at="2019-03-19T03:56:55Z" duration-ms="9255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to start browser and getting application ready]]>
+            </line>
+            <line>
+              <![CDATA[Browser and Application is up and running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="startExtentReports(org.testng.ITestContext)[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:46Z" name="startExtentReports" finished-at="2019-03-19T03:56:46Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@58860997]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtentReports -->
+        <test-method is-config="true" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:55Z" name="beforeTestMethod" finished-at="2019-03-19T03:56:55Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TC02_LoginPage.validateTestCase2() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="validateTestCase2()[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:55Z" name="validateTestCase2" finished-at="2019-03-19T03:56:55Z" duration-ms="3" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at testCases.TC02_LoginPage.validateTestCase2(TC02_LoginPage.java:16)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTestCase2 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:55Z" name="tearDownMethod" finished-at="2019-03-19T03:56:56Z" duration-ms="293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateTestCase2 on [TC02_LoginPage passed=0 failed=0 skipped=0] status=FAILURE method=TC02_LoginPage.validateTestCase2()[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test is Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:[TC02_LoginPage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:56Z" name="tearDown" finished-at="2019-03-19T03:56:58Z" duration-ms="2321" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to close the current Open browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed.......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC02_LoginPage -->
+    </test> <!-- TC02_LoginPage -->
+    <test started-at="2019-03-19T03:56:58Z" name="TC03_HomePage" finished-at="2019-03-19T03:57:11Z" duration-ms="12835">
+      <class name="testCases.TC03_HomePage">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:32Z" name="setupReport" finished-at="2019-03-19T03:56:33Z" duration-ms="546" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Setting up reports and Test is getting ready]]>
+            </line>
+            <line>
+              <![CDATA[Settings Done and Test Started............]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="startExtentReports(org.testng.ITestContext)[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:58Z" name="startExtentReports" finished-at="2019-03-19T03:56:58Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@81b5db0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtentReports -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:56:58Z" name="setup" finished-at="2019-03-19T03:57:09Z" duration-ms="10442" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to start browser and getting application ready]]>
+            </line>
+            <line>
+              <![CDATA[Browser and Application is up and running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:57:09Z" name="beforeTestMethod" finished-at="2019-03-19T03:57:09Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TC03_HomePage.validateTestCase3() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method signature="validateTestCase3()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:57:09Z" name="validateTestCase3" finished-at="2019-03-19T03:57:09Z" duration-ms="2" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at testCases.TC03_HomePage.validateTestCase3(TC03_HomePage.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTestCase3 -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:57:09Z" name="tearDownMethod" finished-at="2019-03-19T03:57:09Z" duration-ms="305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateTestCase3 on [TC03_HomePage passed=0 failed=0 skipped=0] status=FAILURE method=TC03_HomePage.validateTestCase3()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is about to end]]>
+            </line>
+            <line>
+              <![CDATA[Test is Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:57:09Z" name="tearDown" finished-at="2019-03-19T03:57:11Z" duration-ms="2080" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to close the current Open browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed.......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:[TC03_HomePage passed=0 failed=0 skipped=0]]" started-at="2019-03-19T03:57:11Z" name="generateReport" finished-at="2019-03-19T03:57:12Z" duration-ms="633" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Preparing Report]]>
+            </line>
+            <line>
+              <![CDATA[Report is generated......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- testCases.TC03_HomePage -->
+    </test> <!-- TC03_HomePage -->
+  </suite> <!-- Navdeep Automation Test Suite -->
+</testng-results>
